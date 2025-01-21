@@ -19,3 +19,7 @@
 ## 목적
 
 이 기획안은 메이플스토리의 유료화 전략을 구체적으로 계획하고, 플레이어 만족도를 유지하면서도 게임의 수익성을 향상시키기 위한 방안을 제시합니다. 게임의 핵심 경험을 방해하지 않으면서, 지속적인 수익 모델을 확보할 수 있는 기회를 제공합니다.
+
+## 파일
+
+- [메이플스토리 유료화 기획안.pptx](https://github.com//ManUOnana/Monetization-Plan-for-MapleStory/blob/main/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9C%A0%EB%A3%8C%ED%99%94%20%EA%B8%B0%ED%9A%8D%EC%95%88.pptx) : 메이플스토리 유료화 기획안 파일
