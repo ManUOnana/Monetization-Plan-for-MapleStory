@@ -22,4 +22,5 @@
 
 ## 파일
 
-- [메이플스토리 유료화 기획안.pptx](https://github.com//ManUOnana/Monetization-Plan-for-MapleStory/blob/main/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9C%A0%EB%A3%8C%ED%99%94%20%EA%B8%B0%ED%9A%8D%EC%95%88.pptx) : 메이플스토리 유료화 기획안 파일
+- [메이플스토리 유료화 기획안.pptx](https://raw.githubusercontent.com/ManUOnana/Monetization-Plan-for-MapleStory/main/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9C%A0%EB%A3%8C%ED%99%94%20%EA%B8%B0%ED%9A%8D%EC%95%88.pptx) : 메이플스토리 유료화 기획안 파일
+
